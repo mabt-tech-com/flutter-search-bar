@@ -3,7 +3,7 @@
 Create a simple Search Bar Field in Flutter. This search textfield widget is displayed within the App Bar.
 
 
-## 🎬 Tuto Video :  [https://.../Xinjf7AQUYA](https://.../Xinjf7AQUYA)
+## 🎬 vid :  [Xinjf7AQUYA](/Xinjf7AQUYA)
 
 ... 
 =  
